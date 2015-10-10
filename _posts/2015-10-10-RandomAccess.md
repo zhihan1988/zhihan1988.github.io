@@ -3,7 +3,8 @@ layout: post
 title: RandomAccess
 ---
 
-#RandomAccess接口 用以标示是否支持快速随机访问 通常通过以下方式对大的集合数组进行区分遍历
+# RandomAccess接口
+用以标示是否支持快速随机访问 通常通过以下方式对大的集合数组进行区分遍历
 
 {% highlight java%}
 
@@ -17,6 +18,6 @@ title: RandomAccess
 {% endhighlight %}
 
 
-#参考链接：
+# 参考链接：
 http://blog.csdn.net/keda8997110/article/details/8635005
 包括：接口介绍 性能测试
