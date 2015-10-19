@@ -3,7 +3,6 @@ layout: post
 title: 数据库事务隔离级别
 ---
 
-## 数据库隔离级别
 ![_config.yml]({{ site.baseurl }}/images/mysql-affair.png)
 
 
