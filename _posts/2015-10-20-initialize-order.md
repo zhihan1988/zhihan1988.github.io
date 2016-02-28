@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ConcurrentHashMap Collections.synchronizedMap,Hashtable
+title: 初始化顺序
 ---
 
 #结论：
